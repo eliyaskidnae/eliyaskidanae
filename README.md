@@ -4,7 +4,7 @@
 
 ### I'm a Robotics Eng student  and Software Developer living in spian and studing  at University of Girona - Master in Intellegent field of Robotics System 
 
-![Snake animation](https://github.com/eliyaskidanae/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/eliyaskidnae/eliyaskidanae/blob/output/github-contribution-grid-snake.svg)
 
 ### Languages & Tools 🛠
 
