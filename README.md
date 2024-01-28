@@ -2,9 +2,9 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello ! </h1>
 
-### I'm a Robotics Eng student  and Software Developer living in spian and studing  at University of Girona -Master in Intellegent field of Robotics System 
+### I'm a Robotics Eng student  and Software Developer living in spian and studing  at University of Girona - Master in Intellegent field of Robotics System 
 
-![Snake animation](https://github.com/eliyaskidanae/eliyaskidanae/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/eliyaskidanae/blob/output/github-contribution-grid-snake.svg)
 
 ### Languages & Tools 🛠
 
